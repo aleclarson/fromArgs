@@ -1,0 +1,13 @@
+{
+  "name": "fromArgs",
+  "version": "1.0.0",
+  "main": "js/fromArgs",
+  "dependencies": {
+    "isType": "aleclarson/isType#1.0.0"
+  },
+  "lotus": {
+    "plugins": [
+      "lotus-coffee"
+    ]
+  }
+}
