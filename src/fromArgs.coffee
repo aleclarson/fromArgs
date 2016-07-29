@@ -1,5 +1,4 @@
 
-assertType = require "assertType"
 isType = require "isType"
 
 module.exports = (index, keyPath) ->

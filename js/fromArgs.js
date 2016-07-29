@@ -1,6 +1,4 @@
-var assertType, isType, wrapFunction;
-
-assertType = require("assertType");
+var isType, wrapFunction;
 
 isType = require("isType");
 
